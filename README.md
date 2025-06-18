@@ -1,5 +1,10 @@
 # ProyekAkhirPemweb
 
+**Nama Aplikasi :**
+
+BarberBook
+
+
 **Anggota Kelompok :** 
 
 Muhammad Zidan Rosyid (2317051044)
